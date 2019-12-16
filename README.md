@@ -1,0 +1,2 @@
+# django-sns
+snsアプリ
